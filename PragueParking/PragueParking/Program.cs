@@ -9,7 +9,8 @@ namespace PragueParking
        
        //Hi Jonas how are you
 
-        //Start of Menu
+       // Fine thank you, and you?
+            //Start of Menu
         public static void DisplayMenu()
         {
             Parkering Park = new Parkering();
