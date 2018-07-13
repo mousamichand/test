@@ -17,19 +17,19 @@ namespace PragueParking
 
             while (true)
             {
-
+                //TEST 
                 Console.WriteLine("=====================================");
                 Console.WriteLine("========= Prague Parking 2.0 ========");
                 Console.WriteLine("=====================================");
                 Console.WriteLine("=         Choose an option:         =");
                 Console.WriteLine("=====================================");
-                Console.WriteLine("= 1. Register the vehicle               =");
+                Console.WriteLine("= 1. Register the vehicle           =");
                 Console.WriteLine("= 2. Remove vehicle                 =");
                 Console.WriteLine("= 3. Find vehicle                   =");
                 Console.WriteLine("= 4. Move vehicle                   =");
                 Console.WriteLine("= 5. Current Parking Status         =");
-                Console.WriteLine("= 6. wipe the screen NOW              =");
-                Console.WriteLine("= 7. Exit the  Application               =");
+                Console.WriteLine("= 6. wipe the screen NOW            =");
+                Console.WriteLine("= 7. Exit the  Application          =");
                 Console.WriteLine("=====================================");
                 Console.WriteLine();
 
