@@ -9,7 +9,7 @@ namespace PragueParking
        
        //Hi Jonas how are you bye bye 12
 
-       // Fine thank you, and you?
+       // Bad thank you, and you?
             //Start of Menu898988
         public static void DisplayMenu()
         {
@@ -28,7 +28,7 @@ namespace PragueParking
                 Console.WriteLine("= 3. Find vehicle                   =");
                 Console.WriteLine("= 4. Move vehicle                   =");
                 Console.WriteLine("= 5. Current Parking Status         =");
-                Console.WriteLine("= 6. Clear the screen               =");
+                Console.WriteLine("= 6. Destroy the screen               =");
                 Console.WriteLine("= 7. Exit the  Application               =");
                 Console.WriteLine("=====================================");
                 Console.WriteLine();
