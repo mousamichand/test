@@ -6,8 +6,8 @@ namespace PragueParking
     class MainClass
     {
         // Hello Mousami!
-       // Hello
-       //Hi Jonas
+       
+       //Hi Jonas how are you
 
         //Start of Menu
         public static void DisplayMenu()
