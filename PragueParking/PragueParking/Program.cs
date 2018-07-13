@@ -28,7 +28,7 @@ namespace PragueParking
                 Console.WriteLine("= 3. Find vehicle                   =");
                 Console.WriteLine("= 4. Move vehicle                   =");
                 Console.WriteLine("= 5. Current Parking Status         =");
-                Console.WriteLine("= 6. wipe the screen               =");
+                Console.WriteLine("= 6. wipe the screen NOW              =");
                 Console.WriteLine("= 7. Exit the  Application               =");
                 Console.WriteLine("=====================================");
                 Console.WriteLine();
